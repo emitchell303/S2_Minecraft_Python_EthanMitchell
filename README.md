@@ -1,2 +1,2 @@
-# Minecraft_Python_Repo_EthanM
-Minecraft Python files that hack minecraft using Python
+# Minecraft_Python_AB2
+For codes to hack minecraft

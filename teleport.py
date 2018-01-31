@@ -1,13 +1,9 @@
-from mcpi.minecraft import Minecraft
-mc= Minecraft.create()
-import time
-x= 10
-y=110
-z=12
-mc.player.setTilePos(x, y, z)
-time.sleep(10)
-x= 20
-y=115
-z=14
-mc.player.setTilePos(x, y, z)
+from mpi.minecraft import Minecraft
 
+mc = Minecraft.create ()
+
+x = -4.6
+y = 12
+z = -1.3
+
+mc.player.setPos(x, y+100, z)
